@@ -7,7 +7,9 @@ git clone https://github.com/Rohanjain96/TaskReminder.git
 Go to the project directory
 
 cd Taskreminder
+
 Install dependencies
+
 npm install
 
 create .env file
