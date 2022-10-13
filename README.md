@@ -14,17 +14,21 @@ npm install
 
 create .env file
 
-mongoDB = "YOUR MONODB URL"
+mongoDB = "YOUR MONGODB URL"
 
 Secret_key = "ANY SECRET OF YOUR CHOICE"
 
 Start the server
 
-npm run start
+npm start
 
 
 Start the Client
 
   //open now terminal
+  
   cd client
-  npm start
+  
+  npm install
+  
+  npm run start
