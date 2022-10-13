@@ -1,16 +1,8 @@
 import { Box,Container,Tab,TabList,TabPanel,TabPanels,Tabs,Text} from "@chakra-ui/react";
 import Login from "../../Components/Authentication/Login";
 import Signup from "../../Components/Authentication/Signup";
-//   import { useHistory } from "react-router";
   
   function Homepage() {
-    // const history = useHistory();
-  
-    // useEffect(() => {
-    //   const user = JSON.parse(localStorage.getItem("userInfo"));
-  
-    //   if (user) history.push("/chats");
-    // }, [history]);
   
     return (
       <Container maxW="xl" height={"100vh"} display={"flex"} flexDirection="column" justifyContent={"center"} alignItems={"center"}>
