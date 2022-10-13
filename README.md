@@ -2,13 +2,17 @@
 Run Locally
 Clone the project
 
-git clone [https://github.com/Rohanjain96/](https://github.com/Rohanjain96/TaskReminder.git)
+git clone https://github.com/Rohanjain96/TaskReminder.git
 Go to the project directory
 
 cd Taskreminder
 Install dependencies
+npm install
 
-  npm install
+create .env file
+mongoDB = "YOUR MONODB URL"
+Secret_key = "ANY SECRET OF YOUR CHOICE"
+
 Start the server
 npm run start
 
