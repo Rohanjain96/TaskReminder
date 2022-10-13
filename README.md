@@ -2,7 +2,7 @@
 Run Locally
 Clone the project
 
-git clone https://github.com/Rohanjain96/
+git clone [https://github.com/Rohanjain96/](https://github.com/Rohanjain96/TaskReminder.git)
 Go to the project directory
 
 cd Taskreminder
