@@ -13,10 +13,13 @@ Install dependencies
 npm install
 
 create .env file
+
 mongoDB = "YOUR MONODB URL"
+
 Secret_key = "ANY SECRET OF YOUR CHOICE"
 
 Start the server
+
 npm run start
 
 
